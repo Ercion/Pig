@@ -1,7 +1,7 @@
 # Pig
 Pig Latin Examples
 
-![Image of Flask](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDfWV0BZZQiQhd65Li8waUj2EUzscfWQjni13vFLzwezRGYXd_&usqp=CAU)
+![Image of Pig](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDfWV0BZZQiQhd65Li8waUj2EUzscfWQjni13vFLzwezRGYXd_&usqp=CAU)
 
 <br>
 
